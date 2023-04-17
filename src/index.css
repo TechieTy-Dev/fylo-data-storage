@@ -16,6 +16,8 @@ body{
 }
 
 @media screen and (min-width: 767px){  
+
+  /* Adding arrow to the GB Box */
 .gb-box:before{
   content:"";
   display:inline-block;
